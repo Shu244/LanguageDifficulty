@@ -21,6 +21,8 @@ The difficulty level will be granular enough for anyone to progress seemlessly a
 
 Currently, only a couple channels are provided, but more will be coming.
 
-## Issues
+## Requests/Issues
 
-Please feel free to open issues with request to add other channels and/or report issues to me.
+For requests to add specific channels or to report issues, please consider joining our discord server [here](https://discord.gg/5jU3PPkv2A).
+
+You can also report issues using the github `Issues` feature.
