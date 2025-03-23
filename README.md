@@ -2,7 +2,7 @@
 
 One popular and effective method to learn a new language is using comprehensible input. In this approach,
 you watch videos in your target language such that the video is mostly comprehensible.
-Slowly, you will gradually acquire vocabulary and grammar naturally.
+Overtime, you will gradually and naturally acquire vocabulary and grammar from the target language.
 As you progress, you will have to increase the difficulty of the videos to continue learning.
 
 Selecting the appropriate videos to watch is not an easy task. This is why even with the wealth of content
@@ -20,3 +20,7 @@ The difficulty level will be granular enough for anyone to progress seemlessly a
 ## Current and Future Scope
 
 Currently, only a couple channels are provided, but more will be coming.
+
+## Issues
+
+Please feel free to open issues with request to add other channels and/or report issues to me.
