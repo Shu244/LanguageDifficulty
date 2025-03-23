@@ -23,6 +23,6 @@ Currently, only a couple channels are provided, but more will be coming.
 
 ## Requests/Issues
 
-For requests to add specific channels or to report issues, please consider joining our discord server [here](https://discord.gg/5jU3PPkv2A).
+For requests to add specific channels or to report issues, please consider joining our discord server [here](https://discord.gg/hjUzfnhzzh).
 
 You can also report issues using the github `Issues` feature.
