@@ -6,7 +6,7 @@ Overtime, you will gradually and naturally acquire vocabulary and grammar from t
 As you progress, you will have to increase the difficulty of the videos to continue learning.
 
 Selecting the appropriate videos to watch is not an easy task. This is why even with the wealth of content
-available to us (via YouTube, Netflex, etc.), we have dedicated websites to help curate these videos for us.
+available to us (via YouTube, Netflix, etc.), we have dedicated websites to help curate these videos for us.
 
 The goal of this repo is to build an extensive and ever-growing catalog of comprehensible content ranked
 by difficulty. The videos will be curated from YouTube and are currently limited to Spanish content.
